@@ -1,2 +1,3 @@
 # simple-http-downloader
-smd
+
+A simple http downloader use golang.
